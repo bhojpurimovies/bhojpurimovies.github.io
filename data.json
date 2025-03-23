@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": "645cd1df1e71719f24592107",
+      "name": "RAJA KI AAYEGI BAARAAT",
+      "item_caption": "U/A 16+ | 2022 | Bhojpuri | Drama | Family | Romance",
+      "description": "Raja(Khesari Lal ) falls in love with Rani(Sudiksha Jha), but his father fixes his marriage with his business partner's daughter Mahi (Sanjukta Rai) under a business deal. After this, Raja has no choice but to marry her. What happens after this?",
+      "thumbnail": "https://dt87jj20glo1t.cloudfront.net/processed-Images/645cd1df1e71719f24592106-1689076223871-xl_image_16_9/400x225-medium-xl_image_16_9.jpg",
+      "release_date_string": "2022-01-01T00:00:00.000+00:00",
+      "casts": ["1", "2", "3", "4", "5"],
+      "video_url": "https://dangaplay.akamaized.net/64103bb9d485281385fcf52d/hls/adaptive_HD_playlist.m3u8"
+    }
+  ],
+  "casts": {
+    "1": ["Khesari Lal Yadav"],
+    "2": ["Sudiksha Jha"],
+    "3": ["Sanyukta Roy"],
+    "4": ["Sanjay Pandey"],
+    "5": ["Anup Arora"]
+  },
+  "castImages": {
+    "1": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Khesari_Lal_Yadav%2C_2019.jpg",
+    "2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6rtn2wPSdk2NGykLIXEWwARKXAsEkJUdHGw&s",
+    "3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTOwrn2yNAMaQ1hNSzu45DQDiA-TL6JZ3imw&s",
+    "4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3UuyNh6Q2-3-vMMqtpY9FzWkVEnkVRf878nR5ZYQhJ3H14dnpIE96s4s&usqp=CAE&s",
+    "5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtSClZ6kHPKo_uH7_sWqn1gn4j2MJj63yq-41CIwTPQujWFJzHbcIahU&usqp=CAE&s"
+  }
+}

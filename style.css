@@ -1,0 +1,93 @@
+* {
+    box-sizing: content-box;
+    /* border: 1px solid red; */
+    padding: 0;
+    margin: 0;
+  }
+  
+  .ad-horizontal-panel {
+    width: 300px;
+  }
+  
+  article {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  #main {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #casts {
+    display: grid;
+    grid-auto-flow: column; /* Forces a horizontal layout */
+    grid-gap: 10px; /* Adds spacing between items */
+    overflow-x: auto; /* Enables horizontal scrolling */
+    width: 100%;
+    padding: 10px;
+    background: #f4f4f4;
+    scrollbar-width: thin;
+  }
+  
+  #casts > div {
+    width: 200px;
+    /* background: lightblue; */
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 1rem;
+  }
+  
+  #casts > div img {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 90px;
+  }
+  
+  #casts::-webkit-scrollbar {
+    height: 5px; /* Adjusts scrollbar thickness */
+  }
+  
+  #casts::-webkit-scrollbar-track {
+    background: transparent; /* Makes track invisible */
+  }
+  
+  #casts::-webkit-scrollbar-thumb {
+    background: gray; /* Scroll thumb color */
+    border-radius: 3px; /* Rounds the scrollbar edges */
+  }
+  
+  .cast {
+    cursor: pointer;
+  }
+  
+  #movies {
+    padding: 1rem;
+  }
+  
+  #movies > div {
+    border: 1px solid grey;
+    padding: 0.5rem;
+  }
+  
+  #movies > div p {
+    padding: 1rem 0.5rem 0 0.5rem;
+    font-weight: bold;
+  }
+  
+  #movies summary {
+    list-style: none; /* Removes default marker */
+    padding: 0 0.5rem 0 0.5rem;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .ad-horizontal-panel {
+      display: none;
+    }
+  }
+  
