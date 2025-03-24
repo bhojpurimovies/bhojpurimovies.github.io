@@ -5,24 +5,64 @@
       "name": "RAJA KI AAYEGI BAARAAT",
       "item_caption": "U/A 16+ | 2022 | Bhojpuri | Drama | Family | Romance",
       "description": "Raja(Khesari Lal ) falls in love with Rani(Sudiksha Jha), but his father fixes his marriage with his business partner's daughter Mahi (Sanjukta Rai) under a business deal. After this, Raja has no choice but to marry her. What happens after this?",
-      "thumbnail": "https://dt87jj20glo1t.cloudfront.net/processed-Images/645cd1df1e71719f24592106-1689076223871-xl_image_16_9/400x225-medium-xl_image_16_9.jpg",
+      "thumbnail": "https://dt87jj20glo1t.cloudfront.net/processed-Images/645cd1df1e71719f24592106-1689076223871-source_image-xl_image_16_9.jpg",
       "release_date_string": "2022-01-01T00:00:00.000+00:00",
-      "casts": ["1", "2", "3", "4", "5"],
+      "casts": ["1", "4", "5", "6", "7"],
       "video_url": "https://dangaplay.akamaized.net/64103bb9d485281385fcf52d/hls/adaptive_HD_playlist.m3u8"
+    },
+    {
+      "id": "653c9cfca73b9c05b6989e06",
+      "name": "LAADLA 3",
+      "item_caption": "U/A 13+ | 2023 | Bhojpuri | Drama",
+      "description": "A single mother, Nandini, raised her son Vikrant after facing many hurdles in life. Vikrant shares a deep bond with his mother, but his fiancée, Yatra, does not like all these things and puts a condition in front of Nandini before the wedding.",
+      "thumbnail": "https://dt87jj20glo1t.cloudfront.net/processed-Images/653c9cfda73b9c05b6989e08-1700745914108-source_image-xl_image_16_9.jpg",
+      "release_date_string": "2023-10-28T00:00:00.000+00:00",
+      "casts": ["1", "8", "7", "9", "10"],
+      "video_url": "https://dangaplay.akamaized.net/transcoded_videos/653c9d068530b83c94a8bdbc/adaptive_HD_playlist.m3u8"
+    },
+    {
+      "id": "6700b2bda73b9c838d8e343e",
+      "name": "CHACHI NO. 1",
+      "item_caption": "U | 2024 | Bhojpuri | Comedy | Drama | Family",
+      "description": "A hilarious story of a man who disguises himself as a woman to solve his family problems. His double life creates chaos but also brings unexpected lessons and laughter.",
+      "thumbnail": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6565cd8da73b9c74391cadbb-1701852373735-source_image-xl_image_16_9.jpg",
+      "release_date_string": "2024-10-05T17:55:14.000+00:00",
+      "casts": ["2"],
+      "video_url": "https://smart.dangalplay.com/v2/smart_urls/6700b2e08530b8493e7e42dd"
+    },
+    {
+      "id": "6700b2bda73b9c838d8e343f",
+      "name": "MAA BHAWANI",
+      "item_caption": "U | 2024 | Bhojpuri | Devotional | Drama | Family",
+      "description": "Bhawani, an orphan girl, was bound to live with her maternal uncle and aunty while also enduring her aunt's atrocity. Vijay likes Bhawani and marries her, but Bhawani's problems do not stop there; Vijay's uncle & aunty create hurdles in their lives to get his property, but Goddess Durga aids Bhawani in all her troubles.",
+      "thumbnail": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6700b2bda73b9c838d8e3442-1728466768553-source_image-xl_image_16_9.jpg",
+      "release_date_string": "2024-10-05T17:55:14.000+00:00",
+      "casts": [],
+      "video_url": "https://dangaplay.akamaized.net/transcoded_videos/6700b2de8530b8493e7e42db/adaptive_HD_playlist.m3u8"
     }
   ],
   "casts": {
     "1": ["Khesari Lal Yadav"],
-    "2": ["Sudiksha Jha"],
-    "3": ["Sanyukta Roy"],
-    "4": ["Sanjay Pandey"],
-    "5": ["Anup Arora"]
+    "2": ["Yash Kumar"],
+    "3": ["Amrapali Dubey"],
+    "4": ["Sudiksha Jha"],
+    "5": ["Sanyukta Roy"],
+    "6": ["Sanjay Pandey"],
+    "7": ["Anup Arora"],
+    "8": ["Megashree"],
+    "9": ["Maya Yadav"],
+    "10": ["Kishore Bhatt"]
   },
   "castImages": {
     "1": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Khesari_Lal_Yadav%2C_2019.jpg",
-    "2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6rtn2wPSdk2NGykLIXEWwARKXAsEkJUdHGw&s",
-    "3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTOwrn2yNAMaQ1hNSzu45DQDiA-TL6JZ3imw&s",
-    "4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3UuyNh6Q2-3-vMMqtpY9FzWkVEnkVRf878nR5ZYQhJ3H14dnpIE96s4s&usqp=CAE&s",
-    "5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtSClZ6kHPKo_uH7_sWqn1gn4j2MJj63yq-41CIwTPQujWFJzHbcIahU&usqp=CAE&s"
+    "2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpGxQ26yyi-RVIHrxCzIjL6x23jYVOuMMWNTE2aBqtv3abS-MgVrnoDMrB0bsbEGq5K8b_rVXHw3hmlkN3OADVHw",
+    "3": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Amrapali_Dubey_at_Press_Conference_of_Celebrity_Cricket_League_2016_%28cropped%29.jpg/220px-Amrapali_Dubey_at_Press_Conference_of_Celebrity_Cricket_League_2016_%28cropped%29.jpg",
+    "4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6rtn2wPSdk2NGykLIXEWwARKXAsEkJUdHGw&s",
+    "5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTOwrn2yNAMaQ1hNSzu45DQDiA-TL6JZ3imw&s",
+    "6": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw93fyl_USAVReVPUQryaOrGaPIMbCHerxZEONrIV0v6eY5COlbeI5EJXt-S7qsnFhsdOGYz63pN7Z0V30qNoPxQ",
+    "7": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtSClZ6kHPKo_uH7_sWqn1gn4j2MJj63yq-41CIwTPQujWFJzHbcIahU&usqp=CAE&s",
+    "8": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-x1Dr3MTVJlhQjlJfx7e5LFdlX83dlUrw1Ckbyz-xQ9Vwww--iJS-UQQ&usqp=CAE&s",
+    "9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP2kN8PglPM7GyG-MTsIIkK6Dna1U-owqX9g&s",
+    "10": "https://m.media-amazon.com/images/M/MV5BYzVkODI2NzgtMjljNy00M2Y5LThkMTItZDFmYjg1ZGNhYTBlXkEyXkFqcGc@._V1_FMjpg_UX2000_.jpg"
   }
 }
